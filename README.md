@@ -9,7 +9,7 @@ Build / Run
 
 Cài đặt NPM ( Not packed manager)
 /* Đầu tiên, Install những packed cần thiết */
-npm install
+- npm install
 
 /* Sau đó bắt đầu chạy Node và React */
-npm start
+- npm start

@@ -2,7 +2,7 @@ Chức năng :
 - So sánh  2 đoạn text với nhau
 
 Công nghê :
-- Reactjs 
+- React 
 
 Build / Run
 
